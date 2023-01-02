@@ -12,7 +12,7 @@ An experienced MBA graduate with 2 years’ experience as corporate sales manage
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geojaimo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geojaimo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
